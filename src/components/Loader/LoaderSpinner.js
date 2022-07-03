@@ -5,7 +5,6 @@ const LoaderSpinner = () => {
   return (
     <ThreeCircles
       className={styles.Loader}
-      type="ThreeDots"
       color="#000000"
       height={80}
       width={80}
